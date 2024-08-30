@@ -9,4 +9,4 @@
 - Thorough guides
 - *Easy* load
 
-[Link to this page. Thank you!] (https://Purdue-CS193.github.io/homework-0-AryanK3/)
+[Link to this page. Thank you!](https://Purdue-CS193.github.io/homework-0-AryanK3/)
